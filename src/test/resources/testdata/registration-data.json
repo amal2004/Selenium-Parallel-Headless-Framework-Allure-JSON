@@ -1,0 +1,34 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "MALE",
+    "company": "Google",
+    "password": "Password123",
+    "confirmPassword": "Password123"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "gender": "FEMALE",
+    "company": "Microsoft",
+    "password": "Password123",
+    "confirmPassword": "Password123"
+  },
+  {
+    "firstName": "Skip",
+    "lastName": "User",
+    "gender": "MALE",
+    "company": "Amazon",
+    "password": "Password123",
+    "confirmPassword": "Password123"
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Lian",
+    "gender": "MALE",
+    "company": "ASD",
+    "password": "Password123",
+    "confirmPassword": "Password123"
+  }
+]
