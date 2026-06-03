@@ -1,4 +1,4 @@
-# 🚀 Java Selenium Automation Framework
+# 🚀 Java Selenium Data Driven Automation Framework with JSON
 
 <div align="center">
 
